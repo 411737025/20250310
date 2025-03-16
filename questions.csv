@@ -1,0 +1,6 @@
+question,optionA,optionB,optionC,optionD,correct,type
+請問5+2等於多少,3,7,5,8,7,choice
+請問7-2等於多少,2,4,5,9,5,choice
+請問4x5等於多少,,,,,20,fill
+請問7x5等於多少,,,,,35,fill
+請問20-2等於多少,,,,,18,fill
